@@ -29,7 +29,7 @@ php -S localhost:8000
 
 
 Estructura del proyecto:
-Parcial2Actividad2/
+Parcial2Actividad4/
 - index.html          # Página principal con la tarjeta
 - style.css           # Estilos CSS (tema oscuro/rojo)
 - foto.jpg            # Foto de perfil (reemplazar)
