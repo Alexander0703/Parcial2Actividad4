@@ -28,7 +28,7 @@ npx http-server
 php -S localhost:8000
 
 
-Estructura del proyecto (ejemplo):
+Estructura del proyecto:
 Parcial2Actividad2/
 - index.html          # Página principal con la tarjeta
 - style.css           # Estilos CSS (tema oscuro/rojo)
